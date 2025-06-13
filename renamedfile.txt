@@ -1,0 +1,6 @@
+Writing text into file on line 0
+Writing text into file on line 1
+Writing text into file on line 2
+Writing text into file on line 3
+Writing text into file on line 4
+Appending new line at the last.
