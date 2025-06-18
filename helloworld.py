@@ -1,12 +1,12 @@
-
+#testing git commit
 import math
-
 
 def main():
     print("hello world")
     #name=input("what's your name?")
     name="sathish"
     #print("Welcome", name)
+    
 
 if __name__ == "__main__":
     main()   
